@@ -1,0 +1,14 @@
+C:\3 курс\2 семестр\C#\CarDealer\CarDealer\bin\Debug\net10.0\CarDealer.exe
+C:\3 курс\2 семестр\C#\CarDealer\CarDealer\bin\Debug\net10.0\CarDealer.deps.json
+C:\3 курс\2 семестр\C#\CarDealer\CarDealer\bin\Debug\net10.0\CarDealer.runtimeconfig.json
+C:\3 курс\2 семестр\C#\CarDealer\CarDealer\bin\Debug\net10.0\CarDealer.dll
+C:\3 курс\2 семестр\C#\CarDealer\CarDealer\bin\Debug\net10.0\CarDealer.pdb
+C:\3 курс\2 семестр\C#\CarDealer\CarDealer\obj\Debug\net10.0\CarDealer.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 курс\2 семестр\C#\CarDealer\CarDealer\obj\Debug\net10.0\CarDealer.AssemblyInfoInputs.cache
+C:\3 курс\2 семестр\C#\CarDealer\CarDealer\obj\Debug\net10.0\CarDealer.AssemblyInfo.cs
+C:\3 курс\2 семестр\C#\CarDealer\CarDealer\obj\Debug\net10.0\CarDealer.csproj.CoreCompileInputs.cache
+C:\3 курс\2 семестр\C#\CarDealer\CarDealer\obj\Debug\net10.0\CarDealer.dll
+C:\3 курс\2 семестр\C#\CarDealer\CarDealer\obj\Debug\net10.0\refint\CarDealer.dll
+C:\3 курс\2 семестр\C#\CarDealer\CarDealer\obj\Debug\net10.0\CarDealer.pdb
+C:\3 курс\2 семестр\C#\CarDealer\CarDealer\obj\Debug\net10.0\CarDealer.genruntimeconfig.cache
+C:\3 курс\2 семестр\C#\CarDealer\CarDealer\obj\Debug\net10.0\ref\CarDealer.dll
